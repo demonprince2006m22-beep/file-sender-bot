@@ -1,0 +1,2 @@
+"""File Sender Bot package."""
+
